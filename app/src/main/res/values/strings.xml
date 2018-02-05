@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaunchModeDemo</string>
+    <string name="go_to_next_activity">go to next Activity</string>
+    <string name="mainactivity">MainActivity</string>
+</resources>
